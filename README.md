@@ -25,7 +25,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -46,7 +45,7 @@ Users should be able to:
 
 ### Useful resources
 
-- 1](WW3SCHOOLS.COM) - This was like my coding manual during the project.Features like CSS pseudoclasses,CSS box-shadow,Flexbox properties I didn't know or understand,I read about it in the websites with numerous examples of how to apply them.
+- 1](WW3SCHOOLS.COM) - This was like my coding manual during the project.Features like CSS pseudoclasses,CSS box-shadow,Flexbox properties I didn't know or understand,I read about it in the website with numerous examples of how to apply them.
 
 -2] (Mimo) - My Coding tutor alongside WW3SCHOOLS.com.
 
