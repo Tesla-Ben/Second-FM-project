@@ -54,7 +54,7 @@ Users should be able to:
 ### AI Collaboration
 
 
- - 1] Gemini - My assistant during the project. Any challenges,concepts or features I didn't understand It helped me clarify it.(for e.g the CSS box-shadow feature, I initially thought it was done with the border and border-radius properties,So I was effortlessly trying to recreate it with that. By When I brainstormed with Gemini, It made me know that the feature used for that particular design was CSS-box Shadow and I went to read about it.Also Gemini helped me a lot during the Submission processes
+ - 1] Gemini - My assistant during the project. Any challenges,concepts or features I didn't understand It helped me clarify it.(for e.g the CSS box-shadow feature, I initially thought it was done with the border and border-radius properties,So I was effortlessly trying to recreate it with that. By When I brainstormed with Gemini, It made me know that the feature used for that particular design was CSS-box Shadow and I went to read about it.Also Gemini helped me a lot during the Submission processes.
 
 
 -I mainly brainstorm with Gemini, Kind of a question and answer section. We clearly had on rule which is not to generate a Code for me unless I explicitly ask it to.
