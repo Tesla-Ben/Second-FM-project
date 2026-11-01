@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Tesla-Ben/Second-FM-project)
+- Live Site URL:(https://tesla-ben.github.io/Second-FM-project/)
 
 ## My process
 
@@ -46,8 +46,9 @@ Users should be able to:
 
 ### Useful resources
 
-- 1](WW3SCHOOLS.COM) - This was like my coding manual during the project.Features like CSS pseudoclasses,CSS box-shadow ,Flexbox properties I didn't know or understand,I read about it in the websites with numerous examples of how to apply them
--3] Mimo - My Coding tutor alongside WW3SCHOOLS.com.
+- 1](WW3SCHOOLS.COM) - This was like my coding manual during the project.Features like CSS pseudoclasses,CSS box-shadow,Flexbox properties I didn't know or understand,I read about it in the websites with numerous examples of how to apply them.
+
+-2] (Mimo) - My Coding tutor alongside WW3SCHOOLS.com.
 
 
 ### AI Collaboration
@@ -63,9 +64,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Tesla-Ben](https://www.frontendmentor.io/profile/Tesla-Ben)
+- Twitter - [@MrCuriosityNG](https://x.com/MrCuriousityNG)
 
 
 
